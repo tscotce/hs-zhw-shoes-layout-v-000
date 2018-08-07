@@ -27,6 +27,7 @@
 section {
   column-count: 2;
   column-width: 100px;
+  column-fill: auto;
   margin-bottom: 20px;
 }
 
