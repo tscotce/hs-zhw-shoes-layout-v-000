@@ -43,3 +43,7 @@ p  {
 h2 {
   column-span: all;
 }
+
+li {
+  column-span: all;
+}
