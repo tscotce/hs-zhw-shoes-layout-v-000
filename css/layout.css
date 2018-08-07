@@ -32,7 +32,7 @@ section {
 }
 
 h3 {
-  column-span: 1;
+  column-span: none;
 }
 
 p  {
