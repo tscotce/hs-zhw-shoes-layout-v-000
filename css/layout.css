@@ -36,7 +36,7 @@ h3 {
 }
 
 p  {
-  column-span: 1;
+  column-span: none;
   clear: both;
 }
 
