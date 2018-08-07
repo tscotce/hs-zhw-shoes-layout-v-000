@@ -28,3 +28,7 @@
 /*  margin-bottom: 20px;*/
 /*  column-count: 2;*/
 /*}*/
+
+section {
+  column-count: 3;
+}
