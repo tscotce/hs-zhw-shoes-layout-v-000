@@ -30,7 +30,7 @@ section {
 }
 
 h3 {
-  column-span: 2;
+  column-span: 1;
 }
 
 p  {
@@ -38,5 +38,5 @@ p  {
 }
 
 h2 {
-  column-span: 2;
+  column-span: 1;
 }
