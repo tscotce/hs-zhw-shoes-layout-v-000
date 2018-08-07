@@ -27,4 +27,5 @@
 .shadow img{
   border: 5px;
   margin-bottom: 20px;
+  float: right;
 }
