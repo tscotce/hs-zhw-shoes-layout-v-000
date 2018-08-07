@@ -25,7 +25,7 @@
 /* Posititoning Classes */
 
 section {
-  column-count: 1;
+  column-count: 2;
   column-width: 50px;
   column-fill: auto;
   margin-bottom: 20px;
