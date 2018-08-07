@@ -36,3 +36,7 @@ h3 {
 p  {
   column-span: 1;
 }
+
+h2 {
+  column-span: 1;
+}
