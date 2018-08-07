@@ -31,6 +31,10 @@ section {
   margin-bottom: 20px;
 }
 
+.shadow {
+  float: right;
+}
+
 h3 {
   column-span: all;
 }
