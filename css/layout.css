@@ -27,5 +27,5 @@
 .shadow {
   border: 5px;
   margin-bottom: 20px;
-  float: right;
+  column-count: 2;
 }
