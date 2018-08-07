@@ -26,6 +26,7 @@
 
 section {
   column-count: 2;
+  column-width: 100px;
   margin-bottom: 20px;
 }
 
