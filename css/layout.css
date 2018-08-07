@@ -30,5 +30,5 @@ section {
 }
 
 h3 {
-  
+  column-span: 1;
 }
